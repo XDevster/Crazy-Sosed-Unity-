@@ -1,1 +1,2 @@
-# Crazy-Sosed-Unity-
+# Crazy-Sosed-Unity
+OpenSource of Crazy Sosed
